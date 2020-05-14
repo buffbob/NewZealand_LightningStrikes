@@ -1,16 +1,11 @@
 =============
-gis_notebooks
+### Lightning Strike Anomilies in New Zealand
 =============
-
-
-Add a short description here!
-
-
 Description
 ===========
 
-A longer description of your project goes here...
-
+Using point cloud data to analyze lightning strike anomilies.
+Also used pc data to look at historic mining sites.
 
 Note
 ====
