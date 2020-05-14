@@ -1,5 +1,5 @@
 =============
-### Lightning Strike Anomilies in New Zealand
+Lightning Strike Anomilies in New Zealand
 =============
 Description
 ===========
