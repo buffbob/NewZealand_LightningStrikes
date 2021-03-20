@@ -20,7 +20,7 @@ idna==2.6
 importlib-metadata==0.23
 ipaddress==1.0.17
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 keyring==10.6.0
 keyrings.alt==3.0
 MarkupSafe==1.1.1
