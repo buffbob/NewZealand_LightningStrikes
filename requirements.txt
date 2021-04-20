@@ -31,7 +31,7 @@ pandas==0.24.2
 pathlib2==2.3.5
 Pillow==6.2.2
 pluggy==0.13.0
-py==1.8.0
+py==1.10.0
 pycparser==2.19
 pycrypto==2.6.1
 pygobject==3.26.1
