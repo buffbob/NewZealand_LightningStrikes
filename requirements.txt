@@ -29,7 +29,7 @@ numpy==1.16.5
 packaging==19.2
 pandas==0.24.2
 pathlib2==2.3.5
-Pillow==6.2.2
+Pillow==8.3.2
 pluggy==0.13.0
 py==1.8.0
 pycparser==2.19
