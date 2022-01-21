@@ -1,5 +1,5 @@
+<p>To read the jupyter notebook files it is best to use nbviewer as these files are way big. Open https://nbviewer.jupyter.org/ and put URL of file in the repository in the textfield as shown. Press Go button to view the notebook.</p>
 <h2>Finding Gold by assessing Lightning Strike Anomilies in New Zealand</h2>
-<hr>
 <h4>Using point cloud data to analyze lightning strike anomaly locations.
 </h4>
 <hr>
