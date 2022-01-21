@@ -1,6 +1,6 @@
-<h3>Finding Gold by assessing Lightning Strike Anomilies in New Zealand</h3>
+<h2>Finding Gold by assessing Lightning Strike Anomilies in New Zealand</h2>
 <hr>
-<h4>Using point cloud data to analyze lightning strike anomilies locations.
+<h4>Using point cloud data to analyze lightning strike anomaly locations.
 </h4>
 <hr>
 <h3>South Island Overview</h3>
