@@ -11,7 +11,7 @@
 <img src="Overview2.png" >
 <hr>
 <h3>DEM Pipelint</h3>
-<img src="pdal_pipeline.png"
+<img src="pdal_pipe.png"
 
 
 
